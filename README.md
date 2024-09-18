@@ -7,5 +7,6 @@ This repository is a step-by-step introduction to ML/DL using Pytorch, TensorFlo
 <ul>
 <li> Simple Linear Regression : see <b>Pytorch_and_Tensorflow_01.ipynb</b> </li>
 <li> Polynomial Regression: see <b>Pytorch_and_Tensorflow_02.ipynb </b> </li>
+<li> Polynomial Regression: see <b>Pytorch_and_Tensorflow_02.ipynb </b> </li>
 </ul>
 
